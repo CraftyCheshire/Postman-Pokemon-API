@@ -1,6 +1,10 @@
 # Postman-Pokemon-API
-![alt text](<images/pokeAPI - Bunnelby.png>)
+![Bunnelby](<images/pokeAPI - Bunnelby.png>)
 
-![alt text](<images/pokeAPI - perrserker.png>)
+![Perrserker](<images/pokeAPI - perrserker.png>)
 
-![alt text](<images/pokeAPI - toedscool.png>)
+![Toedscool](<images/pokeAPI - toedscool.png>)
+
+
+# Postman-Weather-API
+![Ponchatoula](<images/weather API - Ponchatoula.png>)
